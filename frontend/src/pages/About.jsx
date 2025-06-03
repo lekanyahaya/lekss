@@ -1,6 +1,5 @@
 
-import React from 'react';
-import DynamicBackground from '../components/DynamicBackground';
+
 
 const About = () => {
   return (
